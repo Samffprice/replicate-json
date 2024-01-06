@@ -76,6 +76,11 @@ print('Error: $error');
 - Please replace `"your_replicate_api_key"` and `"your_model_version"` with your actual Replicate API key and model version.
 - The provided usage example demonstrates how to create predictions, retrieve PNG results, and obtain final results in JSON format. This is all done through one function.
 
+## Additional information
+
+Right now, this package in not very flushed out, but hopefully it is able to help at least a couple people out. If you have any questions or suggestions, feel free to email me.
+
+
 ## License
 
 This Replicate Dart package is released under the [MIT License](LICENSE). Feel free to contribute and improve the package!
